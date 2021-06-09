@@ -1,0 +1,43 @@
+img{
+    width:550px;
+    height: 550px;
+}
+body {
+    background-image: linear-gradient(to bottom, #d4dcff, #a6b6ff, #9393db);
+}
+h1:hover{
+    font-family: 'Playfair Display', serif;
+    color: #ffffff;
+    text-align: center;
+    background-color: #000000;
+}
+.oof, .top, .pot, .bop, .trip{
+    display: none;
+}
+.crow{
+    display: none;
+}
+.pop, .pops{
+    display: none;
+}
+.clap, .claps{
+    display: none;
+}
+.end, .tin{
+    display: none;
+}
+.home{
+    display: none;
+}
+p:hover{
+	font-family: 'Raleway', sans-serif;
+    text-align: center;
+    color: #ffffff;
+    background-color: #6e6e70;
+}
+img:hover{
+    border: groove #6b89ff 10px;
+    padding: 4px;
+    margin: 4px;
+    background-color: #6e6e70;
+}
